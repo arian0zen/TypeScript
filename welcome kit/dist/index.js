@@ -1,6 +1,6 @@
 "use strict";
-let speed = 20;
-if (speed < 50)
-    speed += 10;
-console.log(speed);
+let sales = 1234556789;
+let courese = "TypeScript";
+let isPublished = true;
+let level;
 //# sourceMappingURL=index.js.map
